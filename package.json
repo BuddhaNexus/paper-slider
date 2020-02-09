@@ -26,7 +26,7 @@
     "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
     "prepare": "npm run generate-types"
   },
-  "version": "3.0.1",
+  "version": "3.0.2",
   "main": "paper-slider.js",
   "contributors": [
     "The Polymer Authors"
@@ -37,7 +37,7 @@
     "@polymer/paper-progress": "^3.0.0-pre.26",
     "@polymer/iron-flex-layout": "^3.0.0-pre.26",
     "@polymer/paper-styles": "^3.0.0-pre.26",
-    "@polymer/iron-behaviors": "^3.0.0-pre.26",
+    "@polymer/iron-range-behavior": "^3.0.0-pre.26",
     "@polymer/paper-behaviors": "^3.0.0-pre.27",
     "@polymer/iron-a11y-keys-behavior": "^3.0.0-pre.26",
     "@polymer/iron-form-element-behavior": "^3.0.0-pre.26"
