@@ -256,7 +256,7 @@ const template = html`
 
     /* paper-input */
     .slider-input {
-      width: 50px;
+      width: 80px;
       overflow: hidden;
       --paper-input-container-input: {
         text-align: center;
